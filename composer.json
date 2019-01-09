@@ -13,9 +13,10 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "drobotko\\parser\\": "src/"
-        }
+        "psr-4": {"CPP\\": "src/CPP"}
+    },
+    "autoload-dev": {
+        "psr-4": {"CPP\\": "tests/CPP"}
     },
     "minimum-stability": "stable"
 }
