@@ -1,6 +1,6 @@
 <?php 
 
-namespace \CPP;
+namespace CPP;
 
 class CPP {
 
